@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/BottomBar/BottomBar.qml</file>
+        <file>ui/RightScreen/RightScreen.qml</file>
+        <file>ui/LeftScreen/LeftScreen.qml</file>
+        <file>ui/assets/carRender.webp</file>
+        <file>ui/assets/car-front.png</file>
+        <file>ui/assets/lock.png</file>
+        <file>ui/assets/unlock.png</file>
+        <file>ui/RightScreen/NavigationSearchBox.qml</file>
+        <file>ui/assets/search.png</file>
+        <file>ui/BottomBar/HVACComponent.qml</file>
+        <file>ui/assets/audio1.png</file>
+        <file>ui/assets/audio2.png</file>
+        <file>ui/assets/mute.png</file>
+        <file>ui/BottomBar/VolumeControlComponent.qml</file>
+    </qresource>
+</RCC>

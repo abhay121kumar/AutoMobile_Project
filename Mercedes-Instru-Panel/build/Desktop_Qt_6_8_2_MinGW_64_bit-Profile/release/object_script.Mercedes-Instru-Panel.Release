@@ -1,0 +1,10 @@
+release/system.o
+release/main.o
+release/main_qml.o
+release/ui_RightScreen_NavigationSearchBox_qml.o
+release/ui_RightScreen_RightScreen_qml.o
+release/ui_BottomBar_BottomBar_qml.o
+release/ui_LeftScreen_LeftScreen_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_system.o

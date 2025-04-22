@@ -1,0 +1,10 @@
+debug/system.o
+debug/main.o
+debug/main_qml.o
+debug/ui_RightScreen_NavigationSearchBox_qml.o
+debug/ui_RightScreen_RightScreen_qml.o
+debug/ui_BottomBar_BottomBar_qml.o
+debug/ui_LeftScreen_LeftScreen_qml.o
+debug/qmlcache_loader.o
+debug/qrc_qml_qmlcache.o
+debug/moc_system.o
