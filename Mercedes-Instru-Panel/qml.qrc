@@ -15,5 +15,17 @@
         <file>ui/assets/audio2.png</file>
         <file>ui/assets/mute.png</file>
         <file>ui/BottomBar/VolumeControlComponent.qml</file>
+        <file>ui/PhoneIntegration/ContactList.qml</file>
+        <file>ui/PhoneIntegration/CallPopup.qml</file>
+        <file>ui/PhoneIntegration/SMSNotification.qml</file>
+        <file>ui/PhoneIntegration/VoiceCommand.qml</file>
+        <file>ui/TopBar/TopBar.qml</file>
+        <file>ui/assets/call_icon.png</file>
+        <file>sounds/ringtone.mp3</file>
+        <file>ui/assets/default_avatar.png</file>
+        <file>ui/assets/mic_icon.png</file>
+        <file>ui/PhoneIntegration/ContactSelectionDialog.qml</file>
+        <file>ui/PhoneIntegration/MusicPlayer.qml</file>
+        <file>ui/assets/song1.wav</file>
     </qresource>
 </RCC>
